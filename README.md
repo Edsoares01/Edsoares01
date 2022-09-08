@@ -78,6 +78,12 @@
 
 [ Solar ](http://edsoares.great-site.net/solar/)
  
+[Odonto-Rio](https://edsoares01.github.io/Odonto-Rio/)
+
+[Rustico-Madeira](http://edsoares.great-site.net/Rustico-Madeira/)
+
+[#](https://pages.github.com/?(null))
+[#](https://pages.github.com/?(null))
 [#](https://pages.github.com/?(null))
 
 
