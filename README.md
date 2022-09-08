@@ -82,6 +82,10 @@
 
 [Rustico-Madeira](http://edsoares.great-site.net/Rustico-Madeira/)
 
+[Hard-Core](https://edsoares01.github.io/Hard-Core/)
+
+[#](https://pages.github.com/?(null))
+[#](https://pages.github.com/?(null))
 [#](https://pages.github.com/?(null))
 [#](https://pages.github.com/?(null))
 [#](https://pages.github.com/?(null))
