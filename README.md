@@ -73,8 +73,6 @@
   
   
 [ EdSoares ](http://edsoares.great-site.net/)
-  
-[ Dentista ](http://edsoares.great-site.net/dentista/?i=1)
 
 [ Solar ](http://edsoares.great-site.net/solar/)
  
