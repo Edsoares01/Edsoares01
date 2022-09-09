@@ -82,7 +82,8 @@
 
 [Hard-Core](https://edsoares01.github.io/Hard-Core/)
 
-[#](https://pages.github.com/?(null))
+[Programa-de-vendas](https://edsoares01.github.io/Programa-de-vendas/)
+
 [#](https://pages.github.com/?(null))
 [#](https://pages.github.com/?(null))
 [#](https://pages.github.com/?(null))
