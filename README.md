@@ -18,7 +18,7 @@
  <a href="https://www.linkedin.com/in/edivaldo-soares-3998b2193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/edsoares__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoedivaldosoares2015.1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a><a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+  </a><a https://youtu.be/SsFf3wq_tRw/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
  
  
 </div>
@@ -68,7 +68,8 @@
 <img align="center" alt="sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-plain.svg "><h3>
   
 #
-  <div>
+</div>
+<div>
   <h3> Projetos </h3>
   
   
@@ -93,7 +94,7 @@
 
 
  
-</div>
+
 © 2022 GitHub, Inc.
 Calabouço 
 Digital
