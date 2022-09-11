@@ -68,7 +68,7 @@
 <img align="center" alt="sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-plain.svg "><h3>
   
 #
-  
+  <div>
   <h3> Projetos </h3>
   
   
@@ -89,7 +89,7 @@
 [#](https://pages.github.com/?(null))
 [#](https://pages.github.com/?(null))
 [#](https://pages.github.com/?(null))
-
+</div>
 
 
  
