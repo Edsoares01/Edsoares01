@@ -3,7 +3,7 @@
   
 </div>
 
-- 🖥️ Técnico de Informática
+- 🖥️ Suporte Técnico N1
 - 🌱 Estudante de programação.
 
 <div align="center">
